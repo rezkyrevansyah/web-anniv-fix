@@ -25,8 +25,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create a Birthday Wish</title>
-        <meta name="description" content="An app to generate birthday wishes :)" />
+        <title>Spesiall 1 bulan kenall</title>
+        <meta name="description" content="web dibuat spesial 1 bulan repan dan isnii kenalann" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

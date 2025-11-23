@@ -83,8 +83,8 @@ const Wish = ({ history }) => {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Happy Birthday {name && name[0]}</title>
-				<meta name="description" content="A surprise birthday wish!" />
+				<title>udah 1 bulan aja {name && name[0]}</title>
+				<meta name="description" content="web 1 bulan kenall" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
