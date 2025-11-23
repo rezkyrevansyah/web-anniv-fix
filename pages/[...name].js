@@ -47,7 +47,7 @@ const Wish = ({ history }) => {
 	useEffect(() => {
 		const interval = setInterval(() => {
 			setMsgIndex((prev) => (prev + 1) % messages.length);
-		}, 15000);
+		}, 13000);
 
 		return () => clearInterval(interval);
 	}, []);
